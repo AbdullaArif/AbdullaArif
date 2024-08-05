@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaarif&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaarif" /> </p>
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **arifabdulla034@gmail.com**
 
